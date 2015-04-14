@@ -1,1 +1,11 @@
-wdajeejshqwdjh
+hey conan, hope you guys had fun in oregon! thanks for your response about apple care... 
+
+i have another question for you, hoping you can give me advice. i need to bring my imac to the store today as my hard drive is failing (looked at the error log, shows failures in 5 min intervals, and the computer keeps stalling for a few seconds/spinning wheel). i backed up the whole system via time machine, which–thank god–worked flawlessly. 
+
+the question: if the computer store installs a new hard drive running yosemite, will i able to re-install all of my software via the migration assistant? that is really the only concern i have, the absolute need to be able to keep using my adobe software (for which i do not have any instal disks…)
+
+i don’t feel comfortable leaving my personal external hard drive at the store for them to take care of the migration.
+
+thank you :-)
+
+
